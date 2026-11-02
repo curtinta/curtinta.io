@@ -1,4 +1,4 @@
-# curtinta.io
+# curtinta
 Hi, I'm Thomas 
 I'm a Computer Science student at Southern New Hampshire University (SNHU) with a passion for software development, artificial intelligence, and machine learning. I enjoy building full-stack applications, learning new technologies, and solving real-world problems through code.
 
